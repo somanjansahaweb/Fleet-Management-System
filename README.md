@@ -85,7 +85,7 @@ Focused on logic flow, user interaction, and error-free execution
 
 💡 Learning Outcomes
 
-By developing this project, you strengthen your understanding of:
+By developing this project, I strengthen my understanding of:
 
 OOP principles and inheritance
 
