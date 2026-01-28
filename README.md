@@ -95,5 +95,4 @@ Applying exception handling for robust programs
 
 Using loops and conditional statements effectively
 
-Structuring real-world applications using the main function pattern
-
+Structuring real-world applications using the main function pattern.
